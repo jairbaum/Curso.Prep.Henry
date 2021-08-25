@@ -1,0 +1,14 @@
+Variables: es un espacio de memoria en el computador 
+que mediante un comando le diremos al programa que tipo
+de informacion va contener ese espacio de memoria
+(string o texto, numeros, booleanos).
+String: es un tipo de variable donde solo se pueden almacenar
+informacion de tipo texto que se identifican con '' o "".
+Funciones: un conjunto de instrucciones que realiza una tarea
+ o calcula un valor, pero para que un procedimiento califique 
+como función, debe tomar alguna entrada y devolver una salida
+ donde hay alguna relación obvia entre la entrada y la salida.
+Declaraciones if: sirve para verificar si una expresion es verdadera
+o falsa y tanto si es verdadera ejecute un codigo.
+Valores Boolenos: son terminos esclusivos de javascript que determina
+si una expresion es verdader (true) o falsa (false).
