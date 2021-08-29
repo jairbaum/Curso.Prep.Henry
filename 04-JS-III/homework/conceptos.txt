@@ -1,0 +1,5 @@
+Arrays: como las variables solo pueden acceder de una por vez
+y se debe definir una por una, y aveces es necesario crear una
+lista de variables relacionadas, se cuenta con un comando
+de js que permite generar unos espacios de almacenamiento
+que esta directamente relacionados, y estos son conocidos como arreglos.
