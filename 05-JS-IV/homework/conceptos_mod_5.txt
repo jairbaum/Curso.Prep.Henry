@@ -1,0 +1,12 @@
+Definicion de Objetos
+Objeto: es una coleccion de datos que estan relacionadas con una sola variable.
+Propiedades: en un concepto que utiliza los objetos  llamado Clave-Valor, donde
+clave es numero de la posicion en la memoria y el valor es el tipo de dato que se
+encuentra en esa Clave.
+Metodos: son la funciones guardadas en un objeto.
+Bucle For...in: es una variante del ciclo for, que permite acceder al contenido al
+valor de cada Clave de declara en un objeto.
+Notacion de Puntos vs Notacion de Corchetes:
+ej: usuario.nombre;
+    usuario['nombre'];
+Se puede utilizar ambas opciones, y en ciertas ocasiones, servira una mas que otra.
