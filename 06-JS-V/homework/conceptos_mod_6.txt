@@ -1,0 +1,8 @@
+Prototype: es una forma de establecer un solo metodo y dar
+acceso a cada objeto de esa clase.
+Constructors (de Clases): es la cualidad de Herencia y
+poliformismo que tienen las clases, en donde la herencia
+es la capacidad de un constructor de heredar propiedades
+y metodos de otro constructor. Cuando hablamos de Poliformismo
+nos referimos a la capacidad de objetos distintos puedan
+a un llamado igual de acuerdo a su propia naturaleza.
