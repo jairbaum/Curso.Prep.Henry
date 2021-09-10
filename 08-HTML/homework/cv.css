@@ -1,0 +1,64 @@
+h1{
+    color: indigo;
+    vertical-align:middle;
+    text-align:center;
+}
+h3{
+    color: red;
+    vertical-align:middle;
+    text-align:center;
+}
+#Informacion{
+    color: red;
+    vertical-align:middle;
+    text-align:center;
+    place-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+h4{
+    color: brown;
+    vertical-align:middle;
+    text-align:center;
+}
+img{
+    width: 400px;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    vertical-align:middle;
+    text-align:center;
+    place-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+body{
+    background-image: url(fondocv.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#Estudios{
+    font-size: 18px;
+    margin: 50px;
+    vertical-align:middle;
+    text-align:center;
+    place-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.content {
+	width:600px;
+	height:400px;
+	line-height:400px;
+	margin:0px auto;
+	text-align:center;
+}
+ 
+.content img {
+	vertical-align:middle;
+}
